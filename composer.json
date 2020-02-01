@@ -1,5 +1,5 @@
 {
-    "name": "codescheme/postcodes",
+    "name": "lstables/postcodes",
     "description": "UK Postcode API Facade for Laravel",
     "keywords": ["postcodes", "postcode","laravel", "laravel5", "api", "json"],
     "license": "MIT",
